@@ -1,6 +1,7 @@
-ipywidgets==8.0.2
-notebook==6.4.12
-py-youtube==1.1.7
+numpy
+matplotlib
+pandas
+sklearn
 ensure==1.0.2
 mkdocs-material
 
